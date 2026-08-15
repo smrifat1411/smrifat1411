@@ -1,24 +1,26 @@
-# Rifat Hossain
+### Hey, I'm Rifat
 
-**Software Engineer · Technical Lead** at [WebBoxes](https://web-boxes.com) — Remote
+Software engineer at [WebBoxes](https://web-boxes.com), remote. I build SaaS platforms, LMS systems, real-time applications, and agentic AI tools — TypeScript, Next.js, NestJS, Python.
 
-I build SaaS platforms, LMS systems, real-time applications, and agentic AI tools with TypeScript, Next.js, NestJS, and Python. 4+ years shipping products from concept to production, leading remote teams along the way. Open source: author of wordpaste, contributor to tiptap.
+Most of my work ships in **private client and production repositories** — what you see here is a small public window. The full picture, with screenshots and live links, is on my portfolio.
 
-**[Portfolio](https://smrifat1411.github.io)** · [LinkedIn](https://www.linkedin.com/in/smrifat1411/) · [Email](mailto:smrifat1411@gmail.com) · [CV](https://smrifat1411.github.io/Rifat_Hossain_CV.pdf)
+**[Portfolio](https://smrifat1411.github.io)** · [CV](https://smrifat1411.github.io/Rifat_Hossain_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/smrifat1411/) · [Email](mailto:smrifat1411@gmail.com)
 
-## Open Source
+#### Open source
 
-- **[tiptap](https://github.com/ueberdosis/tiptap)** (38k★) — merged contribution to the rich-text editor framework behind thousands of production apps: fixed the official image extension's resizable node view staying hidden for already-cached images ([PR #8188](https://github.com/ueberdosis/tiptap/pull/8188)).
-- **[wordpaste](https://github.com/smrifat1411/wordpaste)** — author. Zero-dependency [npm library](https://www.npmjs.com/package/wordpaste) that cleans Microsoft Word clipboard HTML on paste and keeps equations editable (OMML/MathML → LaTeX). 2.4 kB, works with Tiptap, Lexical, ProseMirror, or plain contenteditable. [Live demo](https://smrifat1411.github.io/wordpaste/).
+| | |
+| --- | --- |
+| [wordpaste](https://github.com/smrifat1411/wordpaste) | **Author.** Zero-dependency library — paste from Word without the mess, equations kept editable. [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/) |
+| [tiptap](https://github.com/ueberdosis/tiptap) · 38k★ | **Contributor.** Fix merged into the official image extension — [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188) |
 
-## Selected Work
+#### In production
 
-- **[RMJC LMS](https://readymixjobcare.com)** — learning management and exam-prep platform: AI assistant, question bank, mentor support, in English and Bengali.
-- **[GoodStanding](https://goodstanding.app)** — community volunteering SaaS: match volunteers with organizations, reward impact through a coupon marketplace.
-- **[All0e](https://all0e.com)** — secure peer-to-peer video conferencing over WebRTC, up to 100 participants, no downloads or sign-ups.
-- **Eventspark** — event management platform built from a raw idea to MVP, scaled to **100K+ users in 2 months**.
-- **Tirnoi** — Bengali-first social platform for blood donation: organizations mobilise donor communities with a privacy-first contact flow.
+| | |
+| --- | --- |
+| [RMJC LMS](https://readymixjobcare.com) | LMS & exam-prep platform — AI assistant, question bank, mentor support. English + Bengali |
+| [GoodStanding](https://goodstanding.app) | Community volunteering SaaS — task matching, coupon rewards marketplace |
+| [All0e](https://all0e.com) | Peer-to-peer encrypted video calls over WebRTC — up to 100 participants |
+| Tirnoi | Bengali-first blood-donation network — multi-org donor matching, privacy-first contact |
+| Eventspark | Event management MVP — **100K+ users within 2 months** of launch |
 
-## Stack
-
-TypeScript · Next.js · React · Node.js · NestJS · GraphQL · WebRTC · PostgreSQL · Supabase · MongoDB · Redis · Electron.js · Python · Docker · GitHub Actions · AWS · Agentic AI / LLM APIs
+<sub>TypeScript · Next.js · React · Node.js · NestJS · GraphQL · WebRTC · PostgreSQL · Supabase · MongoDB · Redis · Electron.js · Python · Docker · GitHub Actions · AWS · Agentic AI / LLM APIs</sub>
