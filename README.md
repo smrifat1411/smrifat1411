@@ -23,5 +23,5 @@ TypeScript, Next.js, NestJS, Python.
 - [All0e](https://all0e.com) — peer-to-peer encrypted video conferencing over WebRTC
 - [Xpeed NewsDesk](https://github.com/smrifat1411/newsDesk_next) — live news dashboard for TV broadcasters ([backend](https://github.com/smrifat1411/newsHub_server))
 - [Xpeed POS](https://github.com/smrifat1411/pos_offline_sync_xpeedpos_basic) — cross-platform point of sale with offline–online sync
-- Attendance system — RFID card-punch terminals streaming to a Django REST backend, with offline buffering, server-side reconciliation of punch anomalies, and reporting for teachers and department heads
+- Attendance system — RFID card-punch terminals syncing to a Django REST backend, built for SUST
 - Reneta Gazepack — calibration and monitoring for pharmaceutical packaging machines
