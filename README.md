@@ -2,7 +2,7 @@
 
 **Software Engineer · Technical Lead** at [WebBoxes](https://web-boxes.com) — Sylhet, Bangladesh
 
-I build SaaS platforms, LMS systems, real-time applications, and agentic AI tools with TypeScript, Next.js, NestJS, and Python. 4+ years shipping products from concept to production, leading remote teams along the way.
+I build SaaS platforms, LMS systems, real-time applications, and agentic AI tools with TypeScript, Next.js, NestJS, and Python. 4+ years shipping products from concept to production, leading remote teams along the way. Open source: author of wordpaste, contributor to tiptap.
 
 **[Portfolio](https://smrifat1411.github.io)** · [LinkedIn](https://www.linkedin.com/in/smrifat1411/) · [Email](mailto:smrifat1411@gmail.com) · [CV](https://smrifat1411.github.io/Rifat_Hossain_CV.pdf)
 
