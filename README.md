@@ -4,7 +4,7 @@ Software engineer at [WebBoxes](https://web-boxes.com), remote. I build SaaS pla
 
 Most of my work ships in **private client and production repositories** — what you see here is a small public window. The full picture, with screenshots and live links, is on my portfolio.
 
-**[Portfolio](https://smrifat1411.github.io)** · [CV](https://smrifat1411.github.io/Rifat_Hossain_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/smrifat1411/) · [Email](mailto:smrifat1411@gmail.com)
+**[Portfolio](https://smrifat1411.github.io)** · [LinkedIn](https://www.linkedin.com/in/smrifat1411/) · [Email](mailto:smrifat1411@gmail.com)
 
 #### Open source
 
