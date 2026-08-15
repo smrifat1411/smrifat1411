@@ -12,11 +12,11 @@ TypeScript, Next.js, NestJS, Python.
 
 ### Platforms
 
-- MU UMS — university management system: admissions, enrollment, attendance, grades, transcripts, fees, library and hostel, with per-office staff panels. Multi-tenant, built to deploy per university
 - [RMJC LMS](https://readymixjobcare.com) — learning management and exam-prep platform, English and Bengali
 - [GoodStanding](https://goodstanding.app) — community volunteering and rewards marketplace
 - Eventspark — event management and organizer platform
 - Tirnoi — multi-organization blood-donation network
+- MU UMS — multi-tenant university management system: admissions, enrollment, grades, and fees
 
 ### Real-time and device systems
 
