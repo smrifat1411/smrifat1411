@@ -7,21 +7,12 @@ TypeScript, Next.js, NestJS, Python.
 
 ### Open source
 
-- [wordpaste](https://github.com/smrifat1411/wordpaste) — author. Cleans Microsoft Word clipboard HTML on paste and converts OMML and MathML to LaTeX. [npm](https://www.npmjs.com/package/wordpaste)
+- [wordpaste](https://github.com/smrifat1411/wordpaste) — author. Cleans Microsoft Word clipboard HTML on paste and converts OMML and MathML to LaTeX, keeping equations editable. [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/)
 - [tiptap](https://github.com/ueberdosis/tiptap) — contributor. [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188), merged into the image extension.
 
-### Platforms
+### Public code
 
-- [RMJC LMS](https://readymixjobcare.com) — learning management and exam-prep platform, English and Bengali
-- [GoodStanding](https://goodstanding.app) — community volunteering and rewards marketplace
-- Eventspark — event management and organizer platform
-- Tirnoi — multi-organization blood-donation network
-- MU UMS — multi-tenant university management system: admissions, enrollment, grades, and fees
-
-### Real-time and device systems
-
-- [All0e](https://all0e.com) — peer-to-peer encrypted video conferencing over WebRTC
-- [Xpeed NewsDesk](https://github.com/smrifat1411/newsDesk_next) — live news dashboard for TV broadcasters ([backend](https://github.com/smrifat1411/newsHub_server))
-- [Xpeed POS](https://github.com/smrifat1411/pos_offline_sync_xpeedpos_basic) — cross-platform point of sale with offline–online sync
-- Attendance system — RFID card-punch terminals syncing to a Django REST backend, built for SUST
-- Reneta Gazepack — calibration and monitoring for pharmaceutical packaging machines
+- [Xpeed POS](https://github.com/smrifat1411/pos_offline_sync_xpeedpos_basic) — Electron point of sale, offline–online sync
+- [Xpeed NewsDesk](https://github.com/smrifat1411/newsDesk_next) — live news dashboard ([backend](https://github.com/smrifat1411/newsHub_server))
+- [rif-gallery](https://github.com/smrifat1411/rif-gallery) — scroll-driven morphing image gallery
+- [next-js-starter](https://github.com/smrifat1411/next-js-starter) — opinionated Next.js starter
