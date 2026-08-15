@@ -1,6 +1,6 @@
 # Rifat Hossain
 
-**Software Engineer · Technical Lead** at [WebBoxes](https://web-boxes.com) — Sylhet, Bangladesh
+**Software Engineer · Technical Lead** at [WebBoxes](https://web-boxes.com) — Remote
 
 I build SaaS platforms, LMS systems, real-time applications, and agentic AI tools with TypeScript, Next.js, NestJS, and Python. 4+ years shipping products from concept to production, leading remote teams along the way. Open source: author of wordpaste, contributor to tiptap.
 
