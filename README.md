@@ -8,4 +8,5 @@ TypeScript, Next.js, NestJS, Python.
 ### Open source
 
 - [wordpaste](https://github.com/smrifat1411/wordpaste) — author. Cleans Microsoft Word clipboard HTML on paste and converts OMML and MathML to LaTeX, keeping equations editable. [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/)
+- [lexical](https://github.com/facebook/lexical) — contributor. [PR #9082](https://github.com/facebook/lexical/pull/9082), merged into `@lexical/list`: pasting a list out of Word keeps its numbering and nesting.
 - [tiptap](https://github.com/ueberdosis/tiptap) — contributor. [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188), merged into the image extension.
