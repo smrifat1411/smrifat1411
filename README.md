@@ -14,6 +14,7 @@ TypeScript, Next.js, NestJS, Python.
 ### Platforms
 
 - [RMJC LMS](https://readymixjobcare.com) — bilingual exam platform. LaTeX question bank, proctored attempts, Stripe enrollment, grading, AI assistant.
+- [GoodStanding](https://goodstanding.app) — community volunteering SaaS. Matches volunteers with causes, rewards impact through a coupon marketplace.
 - [Tirnoi](https://blood.tirnoi.cloud) — multi-tenant blood donation platform. Donors searchable across organisations, numbers private until they agree.
 - [All0e](https://all0e.com) — WebRTC conferencing.
 
