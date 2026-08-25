@@ -7,8 +7,8 @@ TypeScript, Next.js, NestJS, Python.
 
 ### Open source
 
-- [lexical](https://github.com/facebook/lexical) — Meta's editor framework. [PR #9082](https://github.com/facebook/lexical/pull/9082) merged into `@lexical/list`: pasting a list out of Word keeps its numbering and nesting.
-- [tiptap](https://github.com/ueberdosis/tiptap) — [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188) merged into the image extension: a resizable image stayed hidden when it had already been cached.
+- [lexical](https://github.com/facebook/lexical) — Meta's editor framework (23k★). [PR #9082](https://github.com/facebook/lexical/pull/9082) merged into `@lexical/list`: pasting a list out of Word keeps its numbering and nesting.
+- [tiptap](https://github.com/ueberdosis/tiptap) — 38k★ editor framework. [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188) merged into the image extension: a resizable image stayed hidden when it had already been cached.
 - [wordpaste](https://github.com/smrifat1411/wordpaste) — built and maintain. Cleans Word's clipboard HTML on paste, keeps equations editable as LaTeX, rebuilds fake lists as real ones. Listed in [Tiptap's community extensions](https://github.com/ueberdosis/awesome-tiptap#community-extensions). [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/)
 
 ### Platforms
