@@ -9,13 +9,13 @@ TypeScript, Next.js, NestJS, Python.
 
 - [lexical](https://github.com/facebook/lexical) — Meta's editor framework. [PR #9082](https://github.com/facebook/lexical/pull/9082) merged into `@lexical/list`: pasting a list out of Word keeps its numbering and nesting.
 - [tiptap](https://github.com/ueberdosis/tiptap) — [PR #8188](https://github.com/ueberdosis/tiptap/pull/8188) merged into the image extension: a resizable image stayed hidden when it had already been cached.
-- [wordpaste](https://github.com/smrifat1411/wordpaste) — built and maintain. Cleans Microsoft Word clipboard HTML on paste and converts OMML and MathML to LaTeX, keeping equations editable. Listed in [Tiptap's community extensions](https://github.com/ueberdosis/awesome-tiptap#community-extensions). [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/)
+- [wordpaste](https://github.com/smrifat1411/wordpaste) — built and maintain. Cleans Word's clipboard HTML on paste, keeps equations editable as LaTeX, rebuilds fake lists as real ones. Listed in [Tiptap's community extensions](https://github.com/ueberdosis/awesome-tiptap#community-extensions). [npm](https://www.npmjs.com/package/wordpaste) · [demo](https://smrifat1411.github.io/wordpaste/)
 
 ### Platforms
 
-- [RMJC LMS](https://readymixjobcare.com) — bilingual exam platform. LaTeX question bank, proctored attempts, Stripe enrollment, grading, AI assistant.
-- [GoodStanding](https://goodstanding.app) — community volunteering SaaS. Matches volunteers with causes, rewards impact through a coupon marketplace.
+- [RMJC LMS](https://readymixjobcare.com) — own product, bilingual exam platform. LaTeX question bank, proctored attempts, Stripe enrollment, grading, AI assistant. Multi-tenant architecture, one deployment serving multiple institutions.
 - [All0e](https://all0e.com) — WebRTC conferencing.
+- [GoodStanding](https://goodstanding.app) — community volunteering SaaS. Matches volunteers with causes, rewards impact through a coupon marketplace.
 
 ### Real-time and device systems
 
